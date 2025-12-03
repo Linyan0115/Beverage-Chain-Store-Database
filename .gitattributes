@@ -1,9 +1,3 @@
 # Force GitHub Linguist to count SQL files as real code
 *.sql linguist-detectable=true
 *.sql linguist-language=SQL
-
-# Optional: ensure CSV is treated as data, not documentation
-*.csv linguist-detectable=true
-
-# Optional: ignore PDF, treat as documentation
-*.pdf linguist-documentation=true
