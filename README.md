@@ -5,6 +5,8 @@ This project builds an end-to-end data system for a beverage chain store, coveri
 
 <img width="339" height="97" alt="image" src="https://github.com/user-attachments/assets/7c7e6376-0689-4861-a3c8-b32b26fb6507" />
 
+[**Full Report: Beverage Chain Store Database**](./Report_BeverageChainStoreDatabase.pdf)
+
 ## Database design
 The database was designed to support all major business entities and operations.
 Key components:
